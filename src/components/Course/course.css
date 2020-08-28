@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    color: #5e793e;
+    font-family: cursive;
+}
+nav.mainNav {
+    background: #9fa56c;
+    padding: 15px;
+    text-align: center;
+}
+
+nav.mainNav a {padding: 10px;text-decoration: none;color: white;}
+
+nav.mainNav a:hover {
+    background: #56d6e6;
+    padding: 15px;
+}

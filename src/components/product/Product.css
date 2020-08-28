@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 10px 50px -5px 37px;
+    padding: 10px;
+}
+.image img{
+    width: 200px;
+}
+h2.product_name,.product_teacher,.product_price {
+    color: #174619;
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+button.addBtn {
+    border: none;
+    padding: 10px 20px;
+    background: #91d048;
+    font-size: 18px;
+    color: white;
+    margin-left: 20px;
+    border-radius: 8px;
+}
